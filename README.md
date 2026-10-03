@@ -10,6 +10,12 @@
 
 ---
 
+## Preview Showcase
+
+![Art Studio Gallery Preview](assets/images/preview.jpg)
+
+---
+
 ## Table of Contents
 
 - [Overview](#overview)
@@ -25,7 +31,7 @@
 
 ## Overview
 
-This project is a multi-page web application designed for an artist and visual designer. It showcases artwork across three distinct mediums: Traditional Painting, Digital Art & Cyberpunk, and 3D Sculptures. Built with responsive web standards, it delivers a gallery viewing experience on desktop, tablet, and mobile browsers.
+This project is a multi-page web application designed for an artist and visual designer. It showcases artwork across three distinct mediums: Traditional Painting, Digital Art & Cyberpunk, and 3D Sculptures. Built with modern responsive web standards, it delivers an art gallery viewing experience across desktop, tablet, and mobile browsers.
 
 ---
 
@@ -71,7 +77,7 @@ The website comprises 4 interlinked HTML pages sharing a consistent design syste
 ## Project Structure
 
 ```plaintext
-html_assignment_2/
+art-studio-gallery/
 ├── assets/
 │   └── images/
 │       ├── art1.png ... art3.png       # Featured hero artworks
@@ -81,6 +87,7 @@ html_assignment_2/
 │       ├── introBkg.png               # Section transition background
 │       ├── map.png                    # Studio location map
 │       ├── paint1.png ... paint6.png  # Traditional painting collection
+│       ├── preview.jpg                # Project preview screenshot
 │       ├── sculpture1.png ... sculpture6.png # Sculpture collection
 │       └── social icons (dragonbit, linkedin, twitter, logo)
 ├── css/
@@ -109,10 +116,10 @@ html_assignment_2/
 
 ## Getting Started
 
-1. Clone or download the repository:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/html_assignment_2.git
-   cd html_assignment_2
+   git clone https://github.com/snaimio/art-studio-gallery.git
+   cd art-studio-gallery
    ```
 2. Open `index.html` in your favorite web browser.
 
